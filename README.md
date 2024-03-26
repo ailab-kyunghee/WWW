@@ -1,6 +1,6 @@
 # WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concepts
 
-This is the source code for [WWW: A Unified Framework for Explaining What, Where and Why 
+This is the official source code for CVPR 2024 paper [WWW: A Unified Framework for Explaining What, Where and Why 
 of Neural Networks by Interpretation of Neuron Concepts]
 
 ## Usage
